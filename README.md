@@ -2,7 +2,6 @@
 
 ---
 
-
 ### Список технологий:
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
@@ -23,8 +22,27 @@
 </p>
 
 ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMafy&layout=compact)](https://github.com/MrMafy/github-readme-stats)
 
 <a href="https://github.com/MrMafy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMafy&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+---
+
+ ### Пройденные курсы:
+
+| Курс                                                            | Дата    | Сертификат                       |
+| --------------------------------------------------------------- | ------- | -------------------------------- |
+|                                                                 |         |                                  |
+
+---
+
+### 💻 Списки проектов:
+
+| Вид проекта                | Ссылка                                                     |
+|----------------------------|------------------------------------------------------------|
+| 1. Рабочие                 |                                                            |
+| 2. Университетские         |                                                            |
+| 3. Пет проекты             |                                                            |
 
 ---
 
@@ -33,15 +51,9 @@
     <a href="https://t.me/MrMafy" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
-    <a href="https://instagram.com/ktsmsnv" target="_blank">
-      <img src="https://github.com/ktsmsnv/ktsmsnv/assets/126246369/f959bc1d-beca-4011-890d-d92f64f48b8e"  width="40" height="40" alt="Instagram"/>
+    <a href="mailto:mrmafy.mail@gmail.com" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" height="40" alt="Gmail"/>
     </a>
-    <a href="https://vk.com/ktsmsnv" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>
-  </div>
+</div>
 
-* ✉️  Почта - [mrmafy.mail@gmail.com](mailto:mrmafy.mail@gmail.com)
-* 📱   Телеграмм -
-* <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" /> - 
 ---

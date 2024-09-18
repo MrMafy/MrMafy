@@ -41,6 +41,7 @@
 |----------------------------|------------------------------------------------------------|
 | 1. Рабочие                 | https://github.com/stars/MrMafy/lists/working-projects     |
 | 2. Университетские         | https://github.com/stars/MrMafy/lists/university-projects  |
+| 3. Пет проекты             | https://github.com/stars/MrMafy/lists/pet-projects         |
 
  
 ---
